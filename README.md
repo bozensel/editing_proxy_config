@@ -42,3 +42,7 @@ listen apache-20101
   server cfme1 10.10.10.60:20101 check backup inter 2s
   server cfme2 10.10.10.61:20101 check inter 2s
   
+The expected output: 
+
+![image](https://user-images.githubusercontent.com/94804863/160229376-93e9069c-4d06-4438-a3d7-653ada884144.png)
+
