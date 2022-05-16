@@ -1,5 +1,5 @@
 # editing_proxy_config
-how to edit proxy config using python
+How to edit proxy config using python
   
 The expected output: 
 
